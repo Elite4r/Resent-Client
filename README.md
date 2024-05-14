@@ -1,3 +1,3 @@
-Resent Client 4.0 on Netlify
+Resent Client 4.0
 
-https://resentx.netlify.app
+Netlify has been discontinued as I am broke
